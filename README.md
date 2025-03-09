@@ -64,6 +64,9 @@ This project is deployed using **Vercel**. To deploy manually, follow these step
 
 Once deployed, Vercel will provide a live URL for your project.
 
+### Live URL
+[Sayyid Pixcels](https://sayyid-pixcels-m5ap0ly67-sayyidisals-projects.vercel.app/)
+
 ## Contribution
 Feel free to fork the repository and submit pull requests with improvements or new features.
 
