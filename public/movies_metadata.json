@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 862,
+    "original_title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "release_date": "30/10/95",
+    "runtime": 81,
+    "status": "Released",
+    "tagline": "",
+    "title": "Toy Story",
+    "vote_average": 7.7,
+    "vote_count": 5415
+  },
+  {
+    "id": 8844,
+    "original_title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "release_date": "11/06/93",
+    "runtime": 127,
+    "status": "Released",
+    "tagline": "An adventure 65 million years in the making.",
+    "title": "Jurassic Park",
+    "vote_average": 8.0,
+    "vote_count": 6979
+  },
+  {
+    "id": 119450,
+    "original_title": "Dawn of the Planet of the Apes",
+    "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+    "release_date": "26/06/14",
+    "runtime": 130,
+    "status": "Released",
+    "tagline": "One last chance for peace.",
+    "title": "Dawn of the Planet of the Apes",
+    "vote_average": 7.4,
+    "vote_count": 3330
+  }
+]
